@@ -31,7 +31,7 @@
      {
 	"Enable":true,
 	"Name":"Default",
-	"ServerList":["wss://########.herokuapp.com"],
+	"ServerList":["wss://gshr.herokuapp.com"],
 	"SNIProxy": "",
 	"Proxy":"",
 	"ConnsPerServer":3,
